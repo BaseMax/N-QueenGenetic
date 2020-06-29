@@ -22,7 +22,7 @@ cd N-QueenGenetic
 g++ N-QueenGenetic.cpp -o nqueen
 ```
 
-##### Read more
+### Read more
 
 **Recommended:** Please try your approach on {IDE} first, before moving on to the solution.
 
