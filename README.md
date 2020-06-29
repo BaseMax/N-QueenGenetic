@@ -16,6 +16,14 @@ You can read a article for N-Queen at [here](article.pdf).
 
 Read more: https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/
 
+### Using
+
+```
+git clone https://github.com/BaseMax/N-QueenGenetic
+cd N-QueenGenetic
+g++ N-QueenGenetic.cpp -o nqueen
+```
+
 ----
 
 # Max Base
