@@ -20,6 +20,8 @@ You can read a article for N-Queen at [here](article.pdf).
 git clone https://github.com/BaseMax/N-QueenGenetic
 cd N-QueenGenetic
 g++ N-QueenGenetic.cpp -o nqueen
+Edit QueenGenetic.cpp file and put your board size and number, then;
+./nqueen
 ```
 
 ### Read more
