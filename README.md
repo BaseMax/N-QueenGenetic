@@ -1,6 +1,8 @@
-# N-QueenGenetic
+# N-Queen problem using Genetic Algorithm
 
 Solving N-Queen problem using Genetic Algorithm.
+
+## N-Queen Genetic
 
 > The aim of N-Queens Problem is to place N queens on an N x N chessboard, in a way so that no queen is in conflict with the others.
 
