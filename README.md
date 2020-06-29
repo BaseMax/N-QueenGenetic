@@ -14,8 +14,6 @@ The N Queen is the problem of placing N chess queens on an N×N chessboard so th
 
 You can read a article for N-Queen at [here](article.pdf).
 
-Read more: https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/
-
 ### Using
 
 ```
@@ -23,6 +21,13 @@ git clone https://github.com/BaseMax/N-QueenGenetic
 cd N-QueenGenetic
 g++ N-QueenGenetic.cpp -o nqueen
 ```
+
+##### Read more
+
+**Recommended:** Please try your approach on {IDE} first, before moving on to the solution.
+
+- https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/
+- https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/
 
 ----
 
