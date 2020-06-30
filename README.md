@@ -12,7 +12,7 @@ The N Queen is the problem of placing N chess queens on an N×N chessboard so th
 
 ![N-QueenGenetic problem](N_Queen_Problem.jpg)
 
-You can read a article for N-Queen at [here](article.pdf).
+You can read an article for N-Queen at [here](article.pdf).
 
 I developed this program in **1 years ago**.
 
